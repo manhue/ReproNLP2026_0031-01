@@ -1,0 +1,13 @@
+\begin{table}
+\caption{Means and standard deviations for the current study.}
+\label{tab:means}
+\begin{tabular}{lrr}
+\toprule
+source & mean & std \\
+\midrule
+Ours & 3.5958 & 1.5386 \\
+PAQ & 3.2500 & 1.6223 \\
+groundtruth & 4.1818 & 0.9896 \\
+\bottomrule
+\end{tabular}
+\end{table}

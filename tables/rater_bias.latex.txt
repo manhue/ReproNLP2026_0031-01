@@ -1,0 +1,15 @@
+\begin{table}
+\caption{Mean rating per rater.}
+\label{tab:bias}
+\begin{tabular}{rr}
+\toprule
+labeller_id & readability(grammarly correct and clear language. worst 1 to 5) \\
+\midrule
+0 & 3.4104 \\
+1 & 3.6593 \\
+2 & 3.3355 \\
+3 & 3.5793 \\
+4 & 4.4776 \\
+\bottomrule
+\end{tabular}
+\end{table}

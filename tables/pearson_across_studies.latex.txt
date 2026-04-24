@@ -1,0 +1,13 @@
+\begin{table}
+\caption{Pearson correlations across studies.}
+\label{tab:pearson}
+\begin{tabular}{llrr}
+\toprule
+System 1 & System 2 & r & p \\
+\midrule
+Ours & PAQ & 0.9380 & 0.0620 \\
+Ours & groundtruth & 0.9884 & 0.0116 \\
+PAQ & groundtruth & 0.8836 & 0.1164 \\
+\bottomrule
+\end{tabular}
+\end{table}

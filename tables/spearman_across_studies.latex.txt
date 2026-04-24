@@ -1,0 +1,13 @@
+\begin{table}
+\caption{Spearman correlations across studies.}
+\label{tab:spearman}
+\begin{tabular}{llrr}
+\toprule
+System 1 & System 2 & rho & p \\
+\midrule
+Ours & PAQ & 0.6000 & 0.4000 \\
+Ours & groundtruth & 1.0000 & 0.0000 \\
+PAQ & groundtruth & 0.6000 & 0.4000 \\
+\bottomrule
+\end{tabular}
+\end{table}

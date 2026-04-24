@@ -1,0 +1,13 @@
+\begin{table}
+\caption{Means-based small-sample bias-corrected coefficient of variation (CV*) comparing the original study and our reproduction.}
+\label{tab:cv-means}
+\begin{tabular}{lrrrrrr}
+\toprule
+system & N & mean & unbiased_sd & cv_star & sd_ci_low & sd_ci_high \\
+\midrule
+groundtruth & 4 & 4.5555 & 0.3707 & 8.6461 & -0.0381 & 0.7795 \\
+Ours & 4 & 4.1690 & 0.5764 & 14.6913 & -0.0593 & 1.2122 \\
+PAQ & 4 & 3.6600 & 0.5862 & 17.0170 & -0.0603 & 1.2326 \\
+\bottomrule
+\end{tabular}
+\end{table}

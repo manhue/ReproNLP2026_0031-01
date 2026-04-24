@@ -1,0 +1,13 @@
+\begin{table}
+\caption{Summary of item-based CV* per system (original vs reproduction).}
+\label{tab:item-cv-summary}
+\begin{tabular}{lrrrr}
+\toprule
+System & N_items & Mean_CV & Median_CV & Std_CV \\
+\midrule
+Ours & 120 & 32.9260 & 22.1557 & 35.4275 \\
+PAQ & 120 & 33.5398 & 23.5404 & 32.7049 \\
+groundtruth & 121 & 19.0289 & 10.4948 & 20.3907 \\
+\bottomrule
+\end{tabular}
+\end{table}

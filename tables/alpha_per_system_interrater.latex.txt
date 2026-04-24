@@ -1,0 +1,13 @@
+\begin{table}
+\caption{Per-system α values.}
+\label{tab:alpha-system}
+\begin{tabular}{lr}
+\toprule
+System & Alpha \\
+\midrule
+groundtruth & 0.2162 \\
+PAQ & 0.2424 \\
+Ours & 0.3724 \\
+\bottomrule
+\end{tabular}
+\end{table}

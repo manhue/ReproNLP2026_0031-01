@@ -1,0 +1,13 @@
+\begin{table}
+\caption{Pairwise t-tests between systems.}
+\label{tab:t-tests}
+\begin{tabular}{llrr}
+\toprule
+System 1 & System 2 & t & p \\
+\midrule
+groundtruth & PAQ & 7.6051 & 0.0000 \\
+groundtruth & Ours & 4.9684 & 0.0000 \\
+PAQ & Ours & -2.3962 & 0.0170 \\
+\bottomrule
+\end{tabular}
+\end{table}

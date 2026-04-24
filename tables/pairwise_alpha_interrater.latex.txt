@@ -1,0 +1,15 @@
+\begin{table}
+\caption{Pairwise Krippendorff’s α for rater pairs with overlapping annotations.}
+\label{tab:pairwise-alpha}
+\begin{tabular}{rrrr}
+\toprule
+Evaluator 1 & Evaluator 2 & Shared items & Alpha \\
+\midrule
+0 & 1 & 72 & 0.3070 \\
+0 & 4 & 62 & 0.1858 \\
+1 & 2 & 63 & 0.3376 \\
+2 & 3 & 92 & 0.4923 \\
+3 & 4 & 72 & 0.2075 \\
+\bottomrule
+\end{tabular}
+\end{table}
