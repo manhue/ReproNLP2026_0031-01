@@ -605,7 +605,6 @@
     },
     "heds-criteria-criterion-response_elicitation-form_of_response-other_text": {
         "data": {
-            "Naturalness": "",
             "Readability": ""
         },
         "control": {}
@@ -618,34 +617,28 @@
     },
     "heds-criteria-criterion-criteria-self_vs_external_frame-2": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
     "heds-criteria-criterion-evaluation_mode-absolute_or_relative-2": {
         "data": {
-            "Naturalness": true,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "2. Relative",
             "Readability": ""
         }
     },
     "heds-criteria-criterion-criteria-quality_type-3": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
@@ -666,7 +659,6 @@
     },
     "heds-criteria-criterion-response_elicitation-inter_annotator-agreement_score": {
         "data": {
-            "Naturalness": "Across all questions: 0.12 ; System 1 (FastSpeech) questions:  0.18 ; System 2 (Tacotron) questions: 0.055",
             "Readability": "0.3225"
         },
         "control": {}
@@ -679,12 +671,10 @@
     },
     "heds-criteria-criterion-criteria-quality_type-2": {
         "data": {
-            "Naturalness": true,
             "Readability": true
         },
         "control": {},
         "text": {
-            "Naturalness": "2. Goodness",
             "Readability": "2. Goodness"
         }
     },
@@ -699,23 +689,19 @@
     },
     "heds-criteria-criterion-response_elicitation-size_of_scale-1": {
         "data": {
-            "Naturalness": true,
             "Readability": true
         },
         "control": {},
         "text": {
-            "Naturalness": "1. Discrete",
             "Readability": "1. Discrete"
         }
     },
     "heds-criteria-criterion-response_elicitation-form_of_response-10": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
@@ -727,7 +713,6 @@
     },
     "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-other_text": {
         "data": {
-            "Naturalness": "Krippendorff's alpha was calculated on the form responses.\nThe resulting values were:\n",
             "Readability": "Krippendorff's alpha (ordinal)"
         },
         "control": {}
@@ -752,23 +737,19 @@
     },
     "heds-criteria-criterion-criteria-output_aspect-1": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
     "heds-criteria-criterion-response_elicitation-scale_presented_as-2": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
@@ -780,23 +761,19 @@
     },
     "heds-criteria-criterion-response_elicitation-form_of_response-5": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
     "heds-criteria-criterion-response_elicitation-form_of_response-9": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
@@ -814,12 +791,10 @@
     },
     "heds-criteria-criterion-evaluation_mode-objective_or_subjective-1": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
@@ -834,23 +809,19 @@
     },
     "heds-criteria-criterion-response_elicitation-form_of_response-7": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
     "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-2": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
@@ -862,7 +833,6 @@
     },
     "heds-criteria-criterion-criteria-self_vs_external_frame-other_text": {
         "data": {
-            "Naturalness": "",
             "Readability": ""
         },
         "control": {}
@@ -875,18 +845,15 @@
     },
     "heds-criteria-criterion-response_elicitation-form_of_response-6": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
     "heds-criteria-criterion-response_elicitation-task_description": {
         "data": {
-            "Naturalness": "N/A",
             "Readability": "N/A"
         },
         "control": {}
@@ -902,26 +869,22 @@
     },
     "heds-criteria-criterion-response_elicitation-intra_annotator-intra_annotator_agreement-other_text": {
         "data": {
-            "Naturalness": "",
             "Readability": ""
         },
         "control": {}
     },
     "heds-criteria-criterion-response_elicitation-size_of_scale-other_text": {
         "data": {
-            "Naturalness": "3",
             "Readability": "5"
         },
         "control": {}
     },
     "heds-criteria-criterion-response_elicitation-inter_annotator-agreement-1": {
         "data": {
-            "Naturalness": true,
             "Readability": true
         },
         "control": {},
         "text": {
-            "Naturalness": "1. yes",
             "Readability": "1. yes"
         }
     },
@@ -957,34 +920,28 @@
     },
     "heds-criteria-criterion-criteria-self_vs_external_frame-3": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
     "heds-criteria-criterion-response_elicitation-scale_presented_as-3": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
     "heds-criteria-criterion-criteria-quality_type-1": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
@@ -999,7 +956,6 @@
     },
     "heds-criteria-criterion-criteria-quality_type-other_text": {
         "data": {
-            "Naturalness": "",
             "Readability": ""
         },
         "control": {}
@@ -1045,23 +1001,19 @@
     },
     "heds-criteria-criterion-evaluation_mode-objective_or_subjective-2": {
         "data": {
-            "Naturalness": true,
             "Readability": true
         },
         "control": {},
         "text": {
-            "Naturalness": "2. Subjective",
             "Readability": "2. Subjective"
         }
     },
     "heds-criteria-criterion-response_elicitation-form_of_response-4": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
@@ -1085,19 +1037,16 @@
     },
     "heds-criteria-criterion-evaluation_mode-intrinsic_or_extrinsic-other_text": {
         "data": {
-            "Naturalness": "",
             "Readability": ""
         },
         "control": {}
     },
     "heds-criteria-criterion-criteria-output_aspect-3": {
         "data": {
-            "Naturalness": true,
             "Readability": true
         },
         "control": {},
         "text": {
-            "Naturalness": "3. Both form and content of output",
             "Readability": "3. Both form and content of output"
         }
     },
@@ -1112,23 +1061,19 @@
     },
     "heds-criteria-criterion-response_elicitation-size_of_scale-3": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
     "heds-criteria-criterion-response_elicitation-scale_presented_as-5": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
@@ -1149,12 +1094,10 @@
     },
     "heds-criteria-criterion-response_elicitation-form_of_response-11": {
         "data": {
-            "Naturalness": false,
             "Readability": false
         },
         "control": {},
         "text": {
-            "Naturalness": "",
             "Readability": ""
         }
     },
@@ -1172,7 +1115,6 @@
     },
     "heds-criteria-criterion-evaluation_mode-objective_or_subjective-other_text": {
         "data": {
-            "Naturalness": "",
             "Readability": ""
         },
         "control": {}
