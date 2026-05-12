@@ -61,11 +61,14 @@ def compute_means_based_cv_star(study_data):
 # COEFFICIENT OF VARIATION ON SYSTEM MEANS
 rows = []
 
+# Scale offset: likert scale starts at 1. In order to compare across different studies, this needs to be shifted to a scale that starts at 0
+scale_offset = 1
+
 systems = list(next(iter(sets_of_sets_of_measurements.values())).keys())
 
 for system in systems:
     measurements = [
-        sets_of_sets_of_measurements[study][system]["mean"]
+        sets_of_sets_of_measurements[study][system]["mean"] - scale_offset
         for study in sets_of_sets_of_measurements
     ]
 
@@ -124,12 +127,12 @@ latex(
     means_cv_df,
     caption="Means-based small-sample bias-corrected coefficient of variation (CV*) comparing the original study and our reproduction.",
     label="tab:cv-means",
-    filename="tables/coeff_variation_means_based___ours_vs_orig.latex.txt"
+    filename="tables/coeff_variation__wrong_scale/coeff_variation_means_based___ours_vs_orig.latex.txt"
 )
 
 save_html_table(
     means_cv_df,
-    "tables/coeff_variation_means_based_ours_vs_orig.html",
+    "tables/coeff_variation__wrong_scale/coeff_variation_means_based_ours_vs_orig.html",
     caption="Means-based CV* comparing the original study and our reproduction."
 )
 
