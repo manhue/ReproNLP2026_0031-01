@@ -1,0 +1,8 @@
+See repository for qra++: https://github.com/DCU-NLG/qra
+
+The files in this directory are:
+- The JSON configuration
+- The input CSV
+- The resulting table in CSV and Latex format
+
+The command used is: $ qra --input "data/yao_et_al_2022/yea_2022.csv" --config "data/yao_et_al_2022/yea_2022.config.json" --out-dir "output/" --force

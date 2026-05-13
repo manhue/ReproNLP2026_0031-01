@@ -1,0 +1,24 @@
+{
+  "Yao et al. 2022": {
+    "scale_starts_at": 1,
+    "type_iii_agreement_method": "auto",
+    "type_iii_krippendorff_alpha_mode": "ordinal",
+    "bib_entries": {
+      "yao2022qag": "@inproceedings{yao2022qag,\n  title = {{It Is AI's Turn to Ask Humans a Question: Question--Answer Pair Generation for Children's Story Books}},\n  author = {Yao, Bingsheng and Wang, Dakuo and Wu, Tongshuang and Zhang, Zheng and Li, Toby Jia-Jun and Yu, Mo and Xu, Ying},\n  booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics},\n  year = {2022},\n  url = {https://aclanthology.org/2022.acl-long.33}\n}"
+    },
+    "citation": "\\citet{yao2022qag}",
+    "experiments": {
+      "O": "\\citet{yao2022qag}",
+      "R1": "\\citet{florescu2024once}",
+      "R2": "\\citet{braun2025reprohum}",
+      "R3": "This work (2026)"
+    },
+    "criteria": {
+      "QC1": {
+        "map": "Readability",
+        "apply_over_correction": false,
+        "normal_data": false
+      }
+    }
+  }
+}

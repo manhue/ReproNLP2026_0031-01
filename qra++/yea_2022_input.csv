@@ -1,0 +1,13 @@
+Key,Study,Experiment,System,Criterion,Result
+0031-01,Yao et al. 2022,O,HUMAN,Readability,4.95
+0031-01,Yao et al. 2022,O,YEA,Readability,4.71
+0031-01,Yao et al. 2022,O,PAQ,Readability,4.08
+0031-01,Yao et al. 2022,R1,HUMAN,Readability,4.71
+0031-01,Yao et al. 2022,R1,YEA,Readability,4.52
+0031-01,Yao et al. 2022,R1,PAQ,Readability,4.17
+0031-01,Yao et al. 2022,R2,HUMAN,Readability,4.38
+0031-01,Yao et al. 2022,R2,YEA,Readability,3.85
+0031-01,Yao et al. 2022,R2,PAQ,Readability,3.14
+0031-01,Yao et al. 2022,R3,HUMAN,Readability,4.18182
+0031-01,Yao et al. 2022,R3,YEA,Readability,3.59583
+0031-01,Yao et al. 2022,R3,PAQ,Readability,3.25
