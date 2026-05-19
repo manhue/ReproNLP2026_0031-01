@@ -17,7 +17,7 @@
       "QC1": {
         "map": "Readability",
         "apply_over_correction": false,
-        "normal_data": false
+        "normal_data": true
       }
     }
   }
